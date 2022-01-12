@@ -1,0 +1,94 @@
+<html>
+    <head>
+        <style>
+            .relative
+            {
+                position: relative;
+                font-size:1.2em;
+                border-width: 5px;
+                border-color: green;
+                border-style: solid;
+                font-family: "Times New Roman", Times, serif;
+                width: auto;
+                padding: 10px;
+                margin: 10px;
+                top: 20%;
+            }
+            .absolute
+            {
+                position: absolute;
+                font-size:1.2em;
+                border-width: 5px;
+                border-color: green;
+                border-style: solid;
+                font-family: "Times New Roman", Times, serif;
+                width: auto;
+                padding: 10px;
+                margin: 10px;
+                right: 2px;
+                top: 2px;
+            }
+            .fixed
+            {
+                position: fixed;
+                font-size:1.2em;
+                border-width: 5px;
+                border-color: green;
+                border-style: solid;
+                font-family: "Times New Roman", Times, serif;
+                width: auto;
+                padding: 10px;
+                margin: 10px;
+                bottom: 10px;
+            }
+
+            .sticky
+            {
+                position: sticky;
+                font-size:1.2em;
+                border-width: 5px;
+                border-color: green;
+                border-style: solid;
+                font-family: "Times New Roman", Times, serif;
+                width: auto;
+                padding: 10px;
+                margin: 10px;
+                top: 10px;
+            }
+      
+        </style>
+    </head>
+
+    <body>
+<div class="relative" >
+    This is relative
+</div>
+<div class="absolute" >
+    This is absolute 
+</div>
+<br><br><br><br><br><br><br>
+<div class="fixed" >
+    This is fixed
+</div>
+<div class="sticky" >
+    This is sticky
+
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p>test 20% to ⬇</p>
+<div class="relative" >
+    This is relative
+
+<div class="absolute" >
+    This is absolute in relative 
+</div>
+<p>test</p>
+</div>
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+    </body>
+   </html>
